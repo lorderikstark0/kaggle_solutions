@@ -1,2 +1,2 @@
 ## kaggle 
-#### MMy repo for my solutions for kaggle 
+#### My repo for my solutions for kaggle 
